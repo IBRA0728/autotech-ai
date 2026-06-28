@@ -1,0 +1,34 @@
+# AutoTechAI
+
+Sistema de automação industrial desenvolvido para estudo e simulação de processos automatizados.
+
+---
+
+## ⚙️ Objetivo
+Simular uma arquitetura de automação utilizando programação, com foco em lógica industrial, controle de processos e estrutura de sistemas.
+
+---
+
+## 🧠 Funcionalidades
+- Estrutura backend para lógica de automação
+- Organização de rotas e serviços
+- Modelagem de dados para processos industriais
+- Base para futura interface (frontend)
+
+---
+
+## 🏗️ Estrutura do Projeto
+- backend/ → lógica principal do sistema
+- frontend/ → interface futura
+- docs/ → documentação do projeto
+
+---
+
+## 🛠️ Tecnologias
+- Python
+- Git / GitHub
+
+---
+
+## 👨‍💻 Autor
+Isaias Barros
